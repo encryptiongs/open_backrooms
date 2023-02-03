@@ -12,5 +12,5 @@ You can design level elements based on the [Backrooms Wiki](https://backrooms.fa
 They can be uploaded soon. 
 
 ### Useful links 
-1.[Backrooms Wiki.](https://backrooms.fandom.com/wiki/Backrooms_Wiki) /n
+1.[Backrooms Wiki.](https://backrooms.fandom.com/wiki/Backrooms_Wiki)
 2.[Backrooms Level 0 generator for blender](https://github.com/AlbertDaYoungYT/TheBackroomsMapGenerator) 
