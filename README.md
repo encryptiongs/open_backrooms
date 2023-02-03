@@ -13,4 +13,4 @@ They can be uploaded soon.
 
 ### Useful links 
 1.[Backrooms Wiki.](https://backrooms.fandom.com/wiki/Backrooms_Wiki)
-2.[Backrooms Level 0 generator for blender] (https://github.com/AlbertDaYoungYT/TheBackroomsMapGenerator) 
+2.[Backrooms Level 0 generator for blender](https://github.com/AlbertDaYoungYT/TheBackroomsMapGenerator) 
