@@ -16,5 +16,5 @@ There are some Backrooms games on [Steam](https://store.steampowered.com/search/
 -You can create issues
 
 ### Useful links 
-1.[Backrooms Wiki.](https://backrooms.fandom.com/wiki/Backrooms_Wiki)
-2.[Backrooms Level 0 generator for blender](https://github.com/AlbertDaYoungYT/TheBackroomsMapGenerator) 
+-1.[Backrooms Wiki.](https://backrooms.fandom.com/wiki/Backrooms_Wiki)
+-2.[Backrooms Level 0 generator for blender](https://github.com/AlbertDaYoungYT/TheBackroomsMapGenerator) 
