@@ -10,4 +10,4 @@
 
 ## Reporting a Vulnerability
 
-You can report a Vulnerability as an [Issue](https://github.com/encryptiongs/open_backrooms/issues)
+You can report a Vulnerability as an [Issue](https://github.com/encryptiongs/open_backrooms/issues).
