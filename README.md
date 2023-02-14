@@ -1,5 +1,5 @@
 # open_backrooms
-Backrooms Game made with Unity by Backrooms community. The goal is to create a game that is based on the [Backrooms Wiki.](https://backrooms.fandom.com/wiki/Backrooms_Wiki)
+Backrooms Game made with Unity by Backrooms community. The goal is to create a game that is based on the [Backrooms Wiki](https://backrooms.fandom.com/wiki/Backrooms_Wiki) or [WikiDot](http://backrooms-wiki.wikidot.com/). 
 
 ## Introduction
 There are some Backrooms games on [Steam](https://store.steampowered.com/search/?term=Backrooms), but they don't seem to be based on the community or the "official" research of the M.E.G.. So here I want to unite the Backrooms community and create a game that makes one feel like he/she is in the "real" Backrooms! 
@@ -11,10 +11,11 @@ There are some Backrooms games on [Steam](https://store.steampowered.com/search/
 
 ## What can you do? 
 - You can update the blender scene (see issues)
-- You can design level elements based on the [Backrooms Wiki](https://backrooms.fandom.com/wiki/Backrooms_Wiki). 
+- You can design level elements based on the [Backrooms Wiki](https://backrooms.fandom.com/wiki/Backrooms_Wiki) or [WikiDot](http://backrooms-wiki.wikidot.com/) 
 - You can create a scene in Unity (see issues)
 - You can create issues
 
 ### Useful links 
 - 1.[Backrooms Wiki.](https://backrooms.fandom.com/wiki/Backrooms_Wiki)
-- 2.[Backrooms Level 0 generator for blender](https://github.com/AlbertDaYoungYT/TheBackroomsMapGenerator) 
+- 2. [WikiDot](http://backrooms-wiki.wikidot.com/) 
+- 3.[Backrooms Level 0 generator for blender](https://github.com/AlbertDaYoungYT/TheBackroomsMapGenerator) 
