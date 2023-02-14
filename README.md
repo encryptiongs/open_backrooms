@@ -17,5 +17,5 @@ There are some Backrooms games on [Steam](https://store.steampowered.com/search/
 
 ### Useful links 
 - 1.[Backrooms Wiki.](https://backrooms.fandom.com/wiki/Backrooms_Wiki)
-- 2. [WikiDot](http://backrooms-wiki.wikidot.com/) 
+- 2.[WikiDot](http://backrooms-wiki.wikidot.com/) 
 - 3.[Backrooms Level 0 generator for blender](https://github.com/AlbertDaYoungYT/TheBackroomsMapGenerator) 
