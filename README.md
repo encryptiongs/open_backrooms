@@ -15,7 +15,7 @@ There are some Backrooms games on [Steam](https://store.steampowered.com/search/
 - You can design level elements based on the [Backrooms Wiki](https://backrooms.fandom.com/wiki/Backrooms_Wiki) or [WikiDot](http://backrooms-wiki.wikidot.com/) 
 - You can create a scene in Unity (see issues)
 - You can create issues
-- You can [vote on the website](https://openbackrooms.wordpress.com/polls) 
+- You can [vote](https://github.com/encryptiongs/open_backrooms/discussions/categories/polls) 
 
 ### Useful links 
 - 1.[Backrooms Wiki.](https://backrooms.fandom.com/wiki/Backrooms_Wiki)
