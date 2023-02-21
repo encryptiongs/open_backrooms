@@ -5,6 +5,7 @@ Backrooms Game made with Unity by Backrooms community. The goal is to create a g
 There are some Backrooms games on [Steam](https://store.steampowered.com/search/?term=Backrooms), but they don't seem to be based on the community or the "official" research of the M.E.G.. So here I want to unite the Backrooms community and create a game that makes one feel like he/she is in the "real" Backrooms! 
 
 ## Status
+- 21th February 2023: [Discord Server](https://discord.gg/pKEsyTk86t) is online! 
 - 14th February 2023: Now we have a [website](https://openbackrooms.wordpress.com)! 
 - 12th February 2023: A blender scene of Level 0/The Lobby was uploaded.
 - 8th February 2023: The first issue can be solved.
