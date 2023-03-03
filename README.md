@@ -1,6 +1,6 @@
 # IMPORTANT 
 THIS IS NOT MORE MY NUMBER 1 PROJECT!! So if you want to contribute, you can do it, but I'm not online everyday to give greenlight. 
-
+There is also a closed source project by iva studios that tries to port the wikidot into a game. I don't know how this will be, but if it is good, this project will be probably archived. 
 
 # open_backrooms
 Backrooms Game made with Unity by Backrooms community. The goal is to create a game that is based on the [Backrooms Wiki](https://backrooms.fandom.com/wiki/Backrooms_Wiki) or [WikiDot](http://backrooms-wiki.wikidot.com/). 
